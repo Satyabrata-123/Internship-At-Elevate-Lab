@@ -37,5 +37,7 @@ public class task4file {
         } catch (IOException e) {
             System.out.println("An error occurred while reading: " + e.getMessage());
         }
+
+        
     }
 }
