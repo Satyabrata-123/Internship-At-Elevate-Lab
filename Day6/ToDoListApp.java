@@ -1,3 +1,5 @@
+package Day6;
+
 
 
 import javax.swing.*;

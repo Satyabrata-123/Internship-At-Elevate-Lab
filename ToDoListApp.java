@@ -69,7 +69,7 @@ public class ToDoListApp extends JFrame {
             taskListModel.remove(selectedIndex);
         } else {
             JOptionPane.showMessageDialog(this, "Please select a task to delete.");
-        }
+        } 
     }
 
     public static void main(String[] args) {
